@@ -3,5 +3,14 @@
 @section('title', 'My Shop')
 
 @section('content')
-    sono la home
+    <div class="jumbo">
+        <div class="jumbo_box">
+            <div class="jumbo_text">
+                <h4>new arrivals</h4>
+                <h2>new style</h2>
+                <h1>new collection</h1>
+            </div>
+            <button class="btn">BUY NOW</button>
+        </div>
+    </div>
 @endsection

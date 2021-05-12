@@ -1,3 +1,3 @@
 <footer>
-    Io sono il footer
+    <p>©opyright | My Shop</p>
 </footer>
