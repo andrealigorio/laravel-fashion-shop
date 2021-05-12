@@ -20,4 +20,7 @@ class HomeController extends Controller
         
         return view('dresses', $data);
     }
+    public function news() {
+        return view('news');
+    }
 }
