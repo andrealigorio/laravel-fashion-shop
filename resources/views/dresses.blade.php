@@ -15,8 +15,8 @@
                 <h2 class="name"><?php echo $dress['name']?></h2>
                 <p class="description"><?php echo $dress['description']?></p>
                 <div class="price"><?php echo $dress['price']?> €</div>
-                <span class="color">Color: <?php echo $dress['color']?></span>
-                <span class="size">Size: <?php echo $dress['size']?></span>
+                <div class="color">Color: <?php echo $dress['color']?></div>
+                <div class="size">Size: <?php echo $dress['size']?></div>
                 <button class="btn add_cart">AGGIUNGI AL CARRELLO</button>
             </div>
         </div>

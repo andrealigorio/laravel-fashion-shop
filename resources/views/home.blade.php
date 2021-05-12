@@ -3,7 +3,7 @@
 @section('title', 'My Shop')
 
 @section('content')
-    <div class="jumbo">
+    <div class="jumbo home">
         <div class="jumbo_box">
             <div class="jumbo_text">
                 <h4>new arrivals</h4>

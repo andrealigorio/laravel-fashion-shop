@@ -3,5 +3,7 @@
 @section('title', 'News')
 
 @section('content')
-    Tutte le news
+    <div class="jumbo news">
+
+    </div>
 @endsection
